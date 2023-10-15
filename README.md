@@ -1,5 +1,6 @@
 # sam-with-prompts
 Promptable segmentation with Segment Anything Model (SAM) from Meta AI.
+
 Integration of Grounding DINO model to segment objects with text-based prompts | [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/abs/2303.05499).
 
 ## TODO:
